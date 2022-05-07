@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Why CSCTRUCKS for Garbage Trucks, Fire Trucks and Sewer Trucks?"
+subtitle: Enjoy shopping on CSCTRUCKS
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why csctrucks.com?
